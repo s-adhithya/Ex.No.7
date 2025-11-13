@@ -103,7 +103,7 @@ You communicate in a friendly and supportive tone and adapt to the user’s habi
 
 ##  User Profile
 
-Name: Easwari M
+Name: Adhithya S
 
 Goal: Improve productivity and manage wellness
 Preferred Routine: Study + Mindfulness + Short Breaks
